@@ -1,7 +1,7 @@
 # CDSS_final-project
 Using Electromyogram (EMG) For Prosthetic Fingers Control
 ## In this repo we added all the notebooks that include processing and modeling the EMG records.
-### we devided the processing  for ***3*** groups 
+### we divided the processing  for ***3*** groups 
 1. The whole record
 2. Seperate windows of the record
 3. overlaped windows 
