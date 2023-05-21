@@ -13,4 +13,4 @@ Using Electromyogram (EMG) For Prosthetic Fingers Control
 2. For different classifiers and precision score.
 
 
-![diagram](https://github.com/Naira06/CDSS_final-project/assets/93448393/bac0941a-ca40-418b-9c60-cdc7d29fa71f)
+![diagram 2](https://github.com/Naira06/CDSS_final-project/assets/93448393/d898f4cb-08e4-45ab-9680-7425b5d04904)
