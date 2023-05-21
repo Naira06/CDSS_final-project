@@ -5,7 +5,7 @@ Using Electromyogram (EMG) For Prosthetic Fingers Control
 1. The whole record
 2. Seperate windows of the record
 3. overlaped windows 
-###You will find 2 notebooks per each group:
+### You will find 2 notebooks per each group:
 1. one for feature extraction and selection and dimentionalty reduction 
 2. For different classifiers and precision score.
 
